@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="man_sight_title">Man\'s Sight</string>
+    <string name="man_sight_artist">BBC</string>
+    <string name="man_sight_year">2022</string>
+    <string name="baby_in_glass_title">Baby in glass</string>
+    <string name="baby_in_glass_artist">National Today</string>
+    <string name="baby_in_glass_year">2021</string>
+    <string name="iceland_title">Iceland</string>
+    <string name="iceland_artist">Abdullah Shaiji</string>
+    <string name="venice_beach_title">Venice Beach</string>
+    <string name="venice_beach_artist">Apeshka Maker</string>
+    <string name="al_salmi_title">Al Salmi Desert</string>
+    <string name="al_salmi_artist">Rashed Alajmi</string>
+    <string name="al_salmi_year">2020</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+</resources>
