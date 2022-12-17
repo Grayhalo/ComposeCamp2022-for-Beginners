@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="course1_name">Architecture</string>
+    <string name="course2_name">Crafts</string>
+    <string name="course3_name">Business</string>
+    <string name="course4_name">Culinary</string>
+    <string name="course5_name">Design</string>
+    <string name="course6_name">Fashion</string>
+    <string name="course7_name">Film</string>
+    <string name="course8_name">Gaming</string>
+    <string name="course9_name">Drawing</string>
+    <string name="course10_name">Lifestyle</string>
+    <string name="course11_name">Music</string>
+    <string name="course12_name">Painting</string>
+    <string name="course13_name">Photography</string>
+    <string name="course14_name">tech</string>
+    <string name="course1_step">58</string>
+    <string name="course2_step">121</string>
+    <string name="course3_step">78</string>
+    <string name="course4_step">118</string>
+    <string name="course5_step">423</string>
+    <string name="course6_step">92</string>
+    <string name="course7_step">165</string>
+    <string name="course8_step">164</string>
+    <string name="course9_step">326</string>
+    <string name="course10_step">305</string>
+    <string name="course11_step">212</string>
+    <string name="course12_step">172</string>
+    <string name="course13_step">321</string>
+    <string name="course14_step">118</string>
+</resources>

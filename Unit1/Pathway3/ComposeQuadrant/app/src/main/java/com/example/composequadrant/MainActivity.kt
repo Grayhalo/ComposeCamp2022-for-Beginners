@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     //Greeting("Android")
-                    val compFuncList = arrayOf<ComposableFunc>(
+                    val compFuncList = arrayOf(
                         ComposableFunc(R.string.text_func, R.string.text_desc, Color.Green),
                         ComposableFunc(R.string.image_func, R.string.image_desc, Color.Yellow),
                         ComposableFunc(R.string.row_func, R.string.row_desc, Color.Cyan),
@@ -151,7 +151,7 @@ fun DefaultPreview() {
 //                color2 = Color.Yellow
 //            )
 
-            val compFuncList = arrayOf<ComposableFunc>(
+            val compFuncList = arrayOf(
                 ComposableFunc(R.string.text_func, R.string.text_desc, Color.Green),
                 ComposableFunc(R.string.image_func, R.string.image_desc, Color.Yellow),
                 ComposableFunc(R.string.row_func, R.string.row_desc, Color.Cyan),
